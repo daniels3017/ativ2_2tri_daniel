@@ -1,0 +1,9 @@
+body {
+    background-color: aqua;
+}
+
+@media screen and (max-width: 600px){
+    .part1{color: brown; font-size: 150%;}
+    .part2{color: yellow; font-size: 130%;}
+    button{background-color: violet;}
+}
