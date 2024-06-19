@@ -8,8 +8,8 @@ body {
     button{background-color: violet;}
 }
 
-.part1{border-color: blue; border-width: 6px; border-style: double;}
+.part1{border-color: blue; border-width: 6px; border-style: double; text-align: center;}
 .part2{border-color: black; border-width: 10px; border-style: groove;}
-.part3{border-color: blueviolet; border-width: 15px; border-style: hidden;}
+.part3{border-color: blueviolet; border-width: 15px; border-style: hidden; text-align: end;}
 .part4{border-color: gold; border-width: 20px; border-style: inset;}
 .part5{border-color: green; border-width: 8px; border-style: ridge;}
