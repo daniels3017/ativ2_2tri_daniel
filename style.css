@@ -7,3 +7,6 @@ body {
     .part2{color: yellow; font-size: 130%;}
     button{background-color: violet;}
 }
+
+.part1{border-color: blue; border-width: 6px; border-style: double;}
+
